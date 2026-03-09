@@ -99,7 +99,7 @@ onMounted(() => {
   <main class="shell">
     <section class="hero">
       <div class="hero-copy">
-        <p class="eyebrow">云乐AI · yuleai.com</p>
+        <p class="eyebrow">云乐AI · yunleai.com</p>
         <h1>OpenClaw 中文安装助手，安装更省心，上手更简单</h1>
         <p class="lead">
           这是云乐AI为中文用户整理的 OpenClaw 安装助手。Windows 走官方推荐的 WSL2 路线，macOS 走本机安装路线，把检测、修复、安装和日志统一收口到一个中文界面里。
@@ -111,7 +111,7 @@ onMounted(() => {
           </div>
           <div class="brand-card">
             <p class="brand-title">平台官网</p>
-            <p class="brand-text">yuleai.com</p>
+            <p class="brand-text">yunleai.com</p>
           </div>
         </div>
         <p class="lead lead-compact">
@@ -176,7 +176,7 @@ onMounted(() => {
           <h2>云乐AI 服务信息</h2>
         </div>
         <ul class="plain-list">
-          <li>官网：`yuleai.com`</li>
+          <li>官网：`yunleai.com`</li>
           <li>定位：更强模型，更低价格，更易落地。</li>
           <li>能力：为开发者提供快速、便捷的 Web API 接口调用方案，一站式集成几乎所有 AI 大模型。</li>
           <li>微信咨询：`Snake2118` / `Hua666ak`</li>
