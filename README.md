@@ -75,7 +75,8 @@ src-tauri/target/release/bundle/macos/OpenClaw中文安装助手.app
 推到 GitHub 后会自动执行：
 
 - `windows-latest` 产出 NSIS 安装包 `exe`
-- `macos-latest` 产出 `.app`
+- `macos-13` 产出 Intel 版 `.app`
+- `macos-latest` 产出 Apple Silicon 版 `.app`
 
 使用方式：
 
@@ -87,7 +88,8 @@ src-tauri/target/release/bundle/macos/OpenClaw中文安装助手.app
 构建完成后，在每次工作流的 `Artifacts` 里下载：
 
 - `openclaw-cn-installer-windows`
-- `openclaw-cn-installer-macos`
+- `openclaw-cn-installer-macos-intel`
+- `openclaw-cn-installer-macos-apple-silicon`
 
 ## 下一步建议
 
