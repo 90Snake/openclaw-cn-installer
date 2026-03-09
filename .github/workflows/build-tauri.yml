@@ -51,7 +51,7 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - runner: macos-13
+          - runner: macos-15-intel
             runner_label: intel
             artifact_name: openclaw-cn-installer-macos-intel
           - runner: macos-latest
